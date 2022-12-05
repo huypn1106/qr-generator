@@ -55,7 +55,7 @@ function generate(user_input) {
 }
 
 generate({
-    value: "https://qr-codes.vercel.app",
+    value: "https://huypn1106.github.io/qr-generator",
 });
 
 // genrate vs scan
